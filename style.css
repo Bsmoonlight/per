@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 53px;
+  color: #ffffff;
+  line-height: 1.0em;
+  text-align: center;
+ 
+}
+
+header p {color: #ffffff;
+}
+
+nav li a {
+  padding: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 600;
+  
+}
+nav li{
+  float: left;
+}
+nav ul{
+  float: right;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
